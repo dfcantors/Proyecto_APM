@@ -7,7 +7,7 @@
 ## Estructura de desglose de trabajo
 
 ## VSM
-
+  Se realizaron  2 VSM para el proceso pre automatización y automatizado, como se ven en las siguientes figuras:
 ## Business Model Canvas
 
 ## Evaluación económica del proyecto
