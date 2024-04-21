@@ -1,4 +1,4 @@
-# <p><center> Proyecto_APM </center></p>
+# :factory: Propuesta de automatización para la industria cerámica - Chía Dynamics :factory:
 
 ## Objetivos
 
