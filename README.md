@@ -1,4 +1,4 @@
-# :factory: Propuesta de automatización para la industria cerámica - Chía Dynamics :factory:
+# Propuesta de automatización para la industria cerámica - Chía Dynamics :factory:
 
 ## Objetivos
 
