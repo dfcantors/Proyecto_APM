@@ -30,6 +30,10 @@
   
 ## Business Model Canvas
 
+Inicialmente se propone el siguiene Business Model Canvas para la empresa que constituimos para el proyecto:
+
+
+
 ## Evaluación económica del proyecto
 
 ## Primera propuesta de layout
