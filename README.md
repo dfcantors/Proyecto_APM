@@ -49,6 +49,14 @@ Se seleccionaron la impresion de patrones, el proceso de calidad del producto y 
 #### Calidad del producto
 
 #### Embalaje de cajas
+
+El proceso de embalaje de cajas se dividirá en 5 fases distintas. Esto contemplara el proceso desde el armado de la caja y la deposición de las baldosas en su imterior hasta el posicionamiento de las cajas y su cobertura de vinipel:
+
+- Doblado inicial de la caja: En esta etapa partimos de la caja desarmada completamente y a través de una máquina le daremos el formado respectivo para poner posteriormente las lozas.
+- Posicionamiento de las cerámicas dentro de la caja: Una vez armada la caja se dispondrá de un brazo que posicionará doce baldosas en cada caja mientras se mueven por una línea transportadora.
+- Cierre de la caja: En esta etapa se dispondrá de una máquina que pondrá pegamento doblará los bordes restantes para el sellado de la caja con el fin de terminar el producto que se enviará.
+- Posicionamiento de las cajas: Las cajas se ubican de acuerdo con la distribución definida para el transporte de las baldosas.
+- Embalaje del conjunto de cajas: Una máquina pondrá finalmente el vinipel para mantener fijas las cajas y protegerlas para el transporte.
  
 
 ### Robots propuestos para cada parte del proceso
