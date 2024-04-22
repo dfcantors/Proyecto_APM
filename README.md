@@ -31,6 +31,7 @@
 ## Business Model Canvas
 
 Inicialmente se propone el siguiene Business Model Canvas para la empresa que constituimos para el proyecto:
+![Business Model Canvas drawio](https://github.com/dfcantors/Proyecto_APM/assets/51063831/4c971e23-9043-4a2b-880d-9d04d4d4dff8)
 
 
 
