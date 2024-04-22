@@ -5,7 +5,10 @@
 ## Contextualización del proyecto
 
 ## 1.1.2.1.3 KPI's Planteados
-La información correspondiente se encuentra dentro de la carpeta 
+La información correspondiente se encuentra dentro de la carpeta:
+    1. Sección de Producto
+        1.1 Gestión de Proyecto
+        
 ## 1.3. Planeación del Proyecto (7 Pasos y Cronograma)
 ### EDT
 ![image](https://github.com/dfcantors/Proyecto_APM/assets/82415576/fae0568f-3207-43e5-95a1-0bb6bb61e4cb)
@@ -62,3 +65,9 @@ El proceso de embalaje de cajas se dividirá en 5 fases distintas. Esto contempl
  
 
 ### Robots propuestos para cada parte del proceso
+
+## 1.1.2.1.3 KPI's Planteados
+La información correspondiente se encuentra dentro de la carpeta:
+    1. Sección de Producto
+        1.1 Gestión de Proyecto
+## 1.3. Planeación del Proyecto (7 Pasos y Cronograma)
