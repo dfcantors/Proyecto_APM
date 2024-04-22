@@ -66,8 +66,9 @@ El proceso de embalaje de cajas se dividirá en 5 fases distintas. Esto contempl
 
 ### Robots propuestos para cada parte del proceso
 
-## 1.1.2.1.3 KPI's Planteados
+## 1.5.4 Análisis de riesgo y peligros
 La información correspondiente se encuentra dentro de la carpeta:
-    1. Sección de Producto
-        1.1 Gestión de Proyecto
+    1.5 Sección de producto
+        1.5 Contenido de módulo de celda de manufactura robotizada completado
+        
 ## 1.3. Planeación del Proyecto (7 Pasos y Cronograma)
