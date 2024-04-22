@@ -23,12 +23,12 @@
 
 ## Propuesta inicial de automatización
 Se seleccionaron la impresion de patrones, el proceso de calidad del producto y el embalaje como los procesos a automatizar. Luego de investigar respecto a soluciones similares en la industria, se llegaorn a las siguientes conclusiones:
- # Impresion de patrones
+#### Impresion de patrones
  Implentacion de máquina impresora de patrones, como la que se presenta a continuación:
 
- # Calidad del producto
+#### Calidad del producto
 
- # Embalaje de cajas
+#### Embalaje de cajas
  
 
 ### Robots propuestos para cada parte del proceso
