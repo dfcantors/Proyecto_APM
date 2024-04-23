@@ -8,7 +8,7 @@
 ## 1.1.2.1.3 KPI's Planteados
 La información correspondiente se encuentra dentro de la carpeta:
 <br>
-        1.1 [Gestión de Producció](https://github.com/dfcantors/Proyecto_APM/tree/main/1.%20Seccion%20de%20Producto/1.1.%20Gestion%20de%20Produccion)
+        1.1 [Gestión de Producción](https://github.com/dfcantors/Proyecto_APM/tree/main/1.%20Seccion%20de%20Producto/1.1.%20Gestion%20de%20Produccion)
         
 ## 1.3. Planeación del Proyecto (7 Pasos y Cronograma)
 ### EDT
