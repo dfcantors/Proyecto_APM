@@ -7,8 +7,8 @@
 
 ## 1.1.2.1.3 KPI's Planteados
 La información correspondiente se encuentra dentro de la carpeta:
-    1. Sección de Producto
-        1.1 Gestión de Proyecto
+<br>
+        1.1 [Gestión de Producció](https://github.com/dfcantors/Proyecto_APM/tree/main/1.%20Seccion%20de%20Producto/1.1.%20Gestion%20de%20Produccion)
         
 ## 1.3. Planeación del Proyecto (7 Pasos y Cronograma)
 ### EDT
@@ -106,6 +106,7 @@ El proceso de embalaje de cajas se dividirá en 5 fases distintas. Esto contempl
 
 ## 1.5.4 Análisis de riesgo y peligros
 La información correspondiente se encuentra dentro de la carpeta:
+<br>
         1.5 [Contenido de módulo de celda de manufactura robotizada completado](https://github.com/dfcantors/Proyecto_APM/tree/main/1.%20Seccion%20de%20Producto/1.5.%20Celda%20Robotizada)
         
         
