@@ -29,7 +29,7 @@ La información correspondiente se encuentra dentro de la carpeta:
 ## VSM
   Se realizaron  2 VSM para el proceso pre automatización y automatizado, como se ven en las siguientes figuras:
   ![alt text](VSM_preautomatozado.png)
-  "C:\Users\Daniel C\Downloads\VSM_postautomatizacion.png"
+  ![alt text](VSM_postautomatizacion.png)
 
   Las etapas a automatizar se asumieron que se realizan sin ningún tipo de automatización.
   
