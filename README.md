@@ -1,4 +1,5 @@
 # Propuesta de automatización para la industria cerámica - Chía Dynamics :factory:
+![Chia Dynamics (3)](https://github.com/dfcantors/Proyecto_APM/assets/82415576/4d8c8762-f4c8-48ab-99b0-9d2236f686b9)
 
 ## Objetivos
 
