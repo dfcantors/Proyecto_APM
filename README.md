@@ -63,8 +63,24 @@ Inicialmente se propone el siguiene Business Model Canvas para la empresa que co
 Se seleccionaron la impresion de patrones, el proceso de calidad del producto y el embalaje como los procesos a automatizar. Luego de investigar respecto a soluciones similares en la industria, se llegaorn a las siguientes conclusiones:
 #### Impresion de patrones
  Implentacion de máquina impresora de patrones, como la que se presenta a continuación:
+ ![alt text](<Maquina de impresion.jpg>)
+ Esta máquina posee las siguientes caracteristicas:
+- Velocidad de hasta 70 m/min
+- Hasta 12 barras de color
+- Circuito de color con recirculación múltiple
+- Circuito de aducción de color
+- Montaje óptico de los cabezales
+- Software de perfilación
+- Limpieza cada 4 horas
+
 
 #### Calidad del producto
+Se busca realizar con el uso de un Qualitron, dadas las siguentes características:
+- cámaras de 6000 puntos
+- zona de cámara oscura, sellada
+- iluminador IR de 4° generación
+El qualitron que busca implementar es el que puede verse a continuacion, (o si bien un modelo similar):
+![alt text](Qualitron.jpg)
 
 #### Embalaje de cajas
 
