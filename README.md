@@ -25,6 +25,9 @@ La información correspondiente se encuentra dentro de la carpeta:
 ![image](https://github.com/dfcantors/Proyecto_APM/assets/82415576/3f99db54-fbb3-424d-a4e8-377516b981f4)
 ### RACI
 ![image](https://github.com/dfcantors/Proyecto_APM/assets/82415576/13c69598-0434-48d8-9823-c905c539a79c)
+### Cronograma Gantt
+![image](https://github.com/dfcantors/Proyecto_APM/assets/83465309/a46352c6-846e-4887-8761-d30230babd30)
+
 
 
 ## VSM
