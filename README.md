@@ -40,7 +40,20 @@ Inicialmente se propone el siguiene Business Model Canvas para la empresa que co
 
 
 
-## Evaluación económica del proyecto
+## 1.4 Evaluación económica del proyecto
+
+### 1.4.1.	Excel con indicadores financieros completado.
+![image](https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.4.%20Evaluacion%20Economica/1.4.1%20Excel.png)
+
+### 1.4.1.1.	 VPN calculado.
+![image](https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.4.%20Evaluacion%20Economica/1.4.1.1%20VPN.png)
+
+### 1.4.1.2.	 TIR calculada.
+![image](https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.4.%20Evaluacion%20Economica/1.4.1.2%20TIR.png)
+
+### 1.4.1.3.	 Payback calculado.
+![image](https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.4.%20Evaluacion%20Economica/1.4.1.3%20Payback.png)
+
 
 ## Primera propuesta de layout
 
