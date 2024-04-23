@@ -54,6 +54,10 @@ Inicialmente se propone el siguiene Business Model Canvas para la empresa que co
 ### 1.4.1.3.	 Payback calculado.
 ![image](https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.4.%20Evaluacion%20Economica/1.4.1.3%20Payback.png)
 
+### 1.4.2.	Oferta comercial escrita.
+
+Teniendo en cuenta los gastos necesarios para la compra de las máquinarias necesarias para la actualización junto con los diversos implementos de control y de seguridad, se puede observar que en 5 meses se obtiene un payback mayor al costo de inversión, generando en 12 meses más de 700.000.000 de beneficio.
+
 
 ## Primera propuesta de layout
 
@@ -100,4 +104,3 @@ La información correspondiente se encuentra dentro de la carpeta:
     1.5 Sección de producto
         1.5 Contenido de módulo de celda de manufactura robotizada completado
         
-## 1.3. Planeación del Proyecto (7 Pasos y Cronograma)
