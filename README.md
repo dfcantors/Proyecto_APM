@@ -28,9 +28,7 @@ La información correspondiente se encuentra dentro de la carpeta:
 
 ## VSM
   Se realizaron  2 VSM para el proceso pre automatización y automatizado, como se ven en las siguientes figuras:
-  ![Imagen 1](https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.1.%20Gestion%20de%20Produccion/VSMs%20proyecto.png?raw=true)
-  ![Imagen 2](https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.1.%20Gestion%20de%20Produccion/VSM%20con%20automatizaci%C3%B3n.png?raw=true)  
-
+  ![Imagen](https://github.dev/dfcantors/Proyecto_APM/tree/main/1.%20Seccion%20de%20Producto/1.1.%20Gestion%20de%20Produccion)
 
   Las etapas a automatizar se asumieron que se realizan sin ningún tipo de automatización.
   
