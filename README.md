@@ -89,26 +89,16 @@ Sin embargo, los indicadores financieros indican que el proyecto es viable a pes
 ## Propuesta inicial de automatización
 Se seleccionaron la impresion de patrones, el proceso de calidad del producto y el embalaje como los procesos a automatizar. Luego de investigar respecto a soluciones similares en la industria, se llegaorn a las siguientes conclusiones:
 #### Impresion de patrones
- Implentacion de máquina impresora de patrones, como la que se presenta a continuación:
- ![image](https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.5.%20Celda%20Robotizada/Análisis%20de%20Riesgo/Maquina%20de%20impresion.jpg)
- Esta máquina posee las siguientes caracteristicas:
-- Velocidad de hasta 70 m/min
-- Hasta 12 barras de color
-- Circuito de color con recirculación múltiple
-- Circuito de aducción de color
-- Montaje óptico de los cabezales
-- Software de perfilación
-- Limpieza cada 4 horas
-
+ Implentacion de máquina impresora de patrones, se pidió cotización pero aun se espera respuesta, por lo que las maquinas entre las opciones a elegir son:
+ - https://www.systemceramics.com/es/maquinas-para-ceramica/control-de-calidad/qualitron
+ - https://sacmi.com/en-us/ceramics/Tiles/Sorting,-packing-and-pallettizing
+ - https://www.iris-im.com/complete-inspection-line/
 
 #### Calidad del producto
-Se busca realizar con el uso de un Qualitron, dadas las siguentes características:
-- cámaras de 6000 puntos
-- zona de cámara oscura, sellada
-- iluminador IR de 4° generación
-El qualitron que busca implementar es el que puede verse a continuacion, (o si bien un modelo similar):
-![image](https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.5.%20Celda%20Robotizada/Análisis%20de%20Riesgo/Qualitron.jpg)
-
+Para la etapa de calidad se busca implementar en la linea de producción un Qualitron. Nuevamente debido a que no han llegado las cotizaciones y no todas las caracteristicas de las máquinas pueden hallarse, entre las posibles opciones se tienen:
+ - https://www.efi.com/products/industrial-printing/ceramics/efi-cretaprint-printers/
+ - https://kerajet.com/es/soluciones-para-ceramica/
+ - https://www.systemceramics.com/es/maquinas-para-ceramica/decoracion/creadigit 
 #### Embalaje de cajas
 
 El proceso de embalaje de cajas se dividirá en 5 fases distintas. Esto contemplara el proceso desde el armado de la caja y la deposición de las baldosas en su imterior hasta el posicionamiento de las cajas y su cobertura de vinipel:
