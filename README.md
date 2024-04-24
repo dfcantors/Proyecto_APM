@@ -5,6 +5,24 @@
 
 ## Contextualización del proyecto
 
+## 1.1 Gestión de producción
+
+## 1.1.1 Análisis de la planta
+
+### Planta previo a la automatización
+
+En el siguiente enlace se puede observar el estado de la planta de fabricación previo a la automatización.
+
+https://youtu.be/nwjF0O8n1nA
+
+### Planta automatizada
+
+En el siguente enlace se podrá encontrar el video de la simulación de la planta de fabricación como primer avance.
+
+https://youtu.be/z5MI-h-2oKE
+
+
+
 ### 1.1.2.1.3 KPI's Planteados
 La información correspondiente se encuentra dentro de la carpeta:
 <br>
