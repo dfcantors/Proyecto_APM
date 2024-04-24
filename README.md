@@ -5,25 +5,25 @@
 
 ## Contextualización del proyecto
 
-## 1.1.2.1.3 KPI's Planteados
+### 1.1.2.1.3 KPI's Planteados
 La información correspondiente se encuentra dentro de la carpeta:
 <br>
         1.1 [Gestión de Producción](https://github.com/dfcantors/Proyecto_APM/tree/main/1.%20Seccion%20de%20Producto/1.1.%20Gestion%20de%20Produccion)
 
-## 1.1.2.1 VSM pre automatizado
+### 1.1.2.1 VSM pre automatizado
   Se realizaron  2 VSM para el proceso pre automatización y automatizado, como se ven en las siguientes figuras:
   ![image](https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.1.%20Gestion%20de%20Produccion/1.1.2.2.1.%20VSM%20pre-automatización.png)
 
-## 1.1.2.2 VSM pre automatizado
+### 1.1.2.2 VSM pre automatizado
   ![image](https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.1.%20Gestion%20de%20Produccion/1.1.2.2.2.%20VSM%20pos-automatización.png)
 
   Las etapas a automatizar se asumieron que se realizan por personal
 
 
 
-## 1.2 Módulo de industria 4.0
+### 1.2 Módulo de industria 4.0
 
-## 1.2.1 Propuesta de Arquitectura de Red
+### 1.2.1 Propuesta de Arquitectura de Red
 
 Como propuesta de arquitectura de red se pretende hacer una integración con las herramientas vistas en clase, para la celda robotizada se tiene una propuesta que conecta toda la suite de ABB para el control del robot así como la conexión a NX para los demás sensores y actuadoes.
 
@@ -37,7 +37,7 @@ Para los demás sistemas en los que no se implementarán celdas robotizadas el c
 
 ![Diagrama de red-Página-3](https://github.com/dfcantors/Proyecto_APM/assets/51063831/6665e4f5-1fd4-45d6-9d08-94c6b3611c3d)
 
-## 1.2.2 Implementación de IoT
+### 1.2.2 Implementación de IoT
 
 - Información de estado de procesos (inicio y fin) a los supervisores de sección.
 - Envío de datos de falla a los supervisores y trabajadores de sección.
