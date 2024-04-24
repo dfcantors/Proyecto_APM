@@ -75,7 +75,11 @@ Inicialmente se propone el siguiene Business Model Canvas para la empresa que co
 
 ### 1.4.2.	Oferta comercial escrita.
 
-Teniendo en cuenta los gastos necesarios para la compra de las máquinarias necesarias para la actualización junto con los diversos implementos de control y de seguridad, se puede observar que en 5 meses se obtiene un payback mayor al costo de inversión, generando en 12 meses más de 700.000.000 de beneficio.
+El proyecto no generará ganancias durante los primeros cuatro meses de operación. Durante este tiempo se llevarán a cabo modificaciones, se contratarán y pagarán los salarios de los ingenieros encargados y se iniciará la infraestructura requerida. Se espera que la planta esté paralizada durante los meses 3 y 4, lo que aumentará las pérdidas de producción.
+
+El proyecto tiene un costo de inversión estimado de $1.137.039.852 COP, que incluye gastos de interrupción de producción, maquinaria, robots, servicios y software, entre otros.
+
+Sin embargo, los indicadores financieros indican que el proyecto es viable a pesar de estos obstáculos iniciales, con un Valor Actual Neto (VAN) de $390.077.121 respecto a la inversión total y una Tasa Interna de Retorno (TIR) del 11%. Además, se estima que el período de recuperación de la inversión (payback) durará 19 meses, generando más de $1.160.000.000 en ingresos.
 
 
 ## Primera propuesta de layout
