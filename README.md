@@ -71,7 +71,7 @@ Teniendo en cuenta los gastos necesarios para la compra de las máquinarias nece
 Se seleccionaron la impresion de patrones, el proceso de calidad del producto y el embalaje como los procesos a automatizar. Luego de investigar respecto a soluciones similares en la industria, se llegaorn a las siguientes conclusiones:
 #### Impresion de patrones
  Implentacion de máquina impresora de patrones, como la que se presenta a continuación:
- ![alt text](<Maquina de impresion.jpg>)
+ ![image](https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.5.%20Celda%20Robotizada/Análisis%20de%20Riesgo/Maquina%20de%20impresion.jpg)
  Esta máquina posee las siguientes caracteristicas:
 - Velocidad de hasta 70 m/min
 - Hasta 12 barras de color
@@ -88,7 +88,7 @@ Se busca realizar con el uso de un Qualitron, dadas las siguentes característic
 - zona de cámara oscura, sellada
 - iluminador IR de 4° generación
 El qualitron que busca implementar es el que puede verse a continuacion, (o si bien un modelo similar):
-![alt text](Qualitron.jpg)
+![image](https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.5.%20Celda%20Robotizada/Análisis%20de%20Riesgo/Qualitron.jpg)
 
 #### Embalaje de cajas
 
