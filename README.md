@@ -21,9 +21,17 @@ En el siguente enlace se podrá encontrar el video de la simulación de la plant
 
 https://youtu.be/z5MI-h-2oKE
 
+Como resultado de la simulación se obtiene la siguiente gráfica de eficiencia 
+
+![alt text](image-1.png)
+
+<<<<<<< HEAD
 
 
+### 1.1.2.1.3 KPI's Planteados
+=======
 #### 1.1.2.1.3 KPI's Planteados
+>>>>>>> 6623e97d0244e6729959acd621fbb34b795e559f
 La información correspondiente se encuentra dentro de la carpeta:
 <br>
         1.1 [Gestión de Producción](https://github.com/dfcantors/Proyecto_APM/tree/main/1.%20Seccion%20de%20Producto/1.1.%20Gestion%20de%20Produccion)
