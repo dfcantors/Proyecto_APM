@@ -21,7 +21,7 @@ La información correspondiente se encuentra dentro de la carpeta:
 
 
 
-### 1.2 Módulo de industria 4.0
+## 1.2 Módulo de industria 4.0
 
 ### 1.2.1 Propuesta de Arquitectura de Red
 
