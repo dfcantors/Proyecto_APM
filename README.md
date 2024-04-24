@@ -118,7 +118,11 @@ El proceso de embalaje de cajas se dividirá en 5 fases distintas. Esto contempl
 
 ![WhatsApp Image 2024-04-23 at 3 08 32 PM](https://github.com/dfcantors/Proyecto_APM/assets/51063831/40bb5654-509c-41a8-a91d-ee6f792a28dc)
 
-  
+En este momento se están esperando las cotizaciones por parte de los proveedores, inicialmente se tienen las siguientes propuestas de robot que podrían cumplir con la tarea especificada:
+
+![Captura de pantalla 2024-04-23 210805](https://github.com/dfcantors/Proyecto_APM/assets/51063831/a8f6d38b-f9e5-4dd8-8582-abe6ce4febed)
+
+
 - Cierre de la caja: En esta etapa se dispondrá de una máquina que pondrá pegamento doblará los bordes restantes para el sellado de la caja con el fin de terminar el producto que se enviará.
 - Posicionamiento de las cajas: Las cajas se ubican de acuerdo con la distribución definida para el transporte de las baldosas.
 - Embalaje del conjunto de cajas: Una máquina pondrá finalmente el vinipel para mantener fijas las cajas y protegerlas para el transporte.
