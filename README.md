@@ -9,13 +9,13 @@
 
 ## 1.1.1 Análisis de la planta
 
-### Planta previo a la automatización
+#### Planta previo a la automatización
 
 En el siguiente enlace se puede observar el estado de la planta de fabricación previo a la automatización.
 
 https://youtu.be/nwjF0O8n1nA
 
-### Planta automatizada
+#### Planta automatizada
 
 En el siguente enlace se podrá encontrar el video de la simulación de la planta de fabricación como primer avance.
 
@@ -23,16 +23,16 @@ https://youtu.be/z5MI-h-2oKE
 
 
 
-### 1.1.2.1.3 KPI's Planteados
+#### 1.1.2.1.3 KPI's Planteados
 La información correspondiente se encuentra dentro de la carpeta:
 <br>
         1.1 [Gestión de Producción](https://github.com/dfcantors/Proyecto_APM/tree/main/1.%20Seccion%20de%20Producto/1.1.%20Gestion%20de%20Produccion)
 
-### 1.1.2.1 VSM pre automatizado
+#### 1.1.2.1 VSM pre automatizado
   Se realizaron  2 VSM para el proceso pre automatización y automatizado, como se ven en las siguientes figuras:
   ![image](https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.1.%20Gestion%20de%20Produccion/1.1.2.2.1.%20VSM%20pre-automatización.png)
 
-### 1.1.2.2 VSM pre automatizado
+#### 1.1.2.2 VSM pre automatizado
   ![image](https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.1.%20Gestion%20de%20Produccion/1.1.2.2.2.%20VSM%20pos-automatización.png)
 
   Las etapas a automatizar se asumieron que se realizan por personal
