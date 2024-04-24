@@ -39,7 +39,17 @@ La información correspondiente se encuentra dentro de la carpeta:
 
 ## Propuesta de Arquitectura de Red
 
+Como propuesta de arquitectura de red se pretende hacer una integración con las herramientas vistas en clase, para la celda robotizada se tiene una propuesta que conecta toda la suite de ABB para el control del robot así como la conexión a NX para los demás sensores y actuadoes.
+
+Las líneas rojas representan los protocolos de comunicación estándar, tales como análogo por corriente o voltaje, RS232 y MODBUS. Que suelen ser los protocolos utilizados por los sensores comunmente.
+
+En la etapa superior se propone un protocolo de comunicación TCP/IP, protocolo que puede implementarse para conectar sistemas de alto nivel a la nube y demás interfaces en tiempo real.
+
 ![Diagrama de red-Página-1](https://github.com/dfcantors/Proyecto_APM/assets/51063831/fa50e89b-f4bf-45d0-9401-13e3ba98b44f)
+
+Para los demás sistemas en los que no se implementarán celdas robotizadas el cambio radica en la ausencia del controlador robótico, la integración será similar y la agrupación de PLC's se dividirá de la siguiente manera:
+
+![Diagrama de red-Página-3](https://github.com/dfcantors/Proyecto_APM/assets/51063831/6665e4f5-1fd4-45d6-9d08-94c6b3611c3d)
 
 
 ## Business Model Canvas
