@@ -36,7 +36,12 @@ La información correspondiente se encuentra dentro de la carpeta:
   ![image](https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.1.%20Gestion%20de%20Produccion/1.1.2.2.2.%20VSM%20pos-automatización.png)
 
   Las etapas a automatizar se asumieron que se realizan sin ningún tipo de automatización.
-  
+
+## Propuesta de Arquitectura de Red
+
+![Diagrama de red-Página-1](https://github.com/dfcantors/Proyecto_APM/assets/51063831/fa50e89b-f4bf-45d0-9401-13e3ba98b44f)
+
+
 ## Business Model Canvas
 
 Inicialmente se propone el siguiene Business Model Canvas para la empresa que constituimos para el proyecto:
