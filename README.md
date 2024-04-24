@@ -9,7 +9,43 @@
 La información correspondiente se encuentra dentro de la carpeta:
 <br>
         1.1 [Gestión de Producción](https://github.com/dfcantors/Proyecto_APM/tree/main/1.%20Seccion%20de%20Producto/1.1.%20Gestion%20de%20Produccion)
-        
+
+## 1.1.2.1 VSM pre automatizado
+  Se realizaron  2 VSM para el proceso pre automatización y automatizado, como se ven en las siguientes figuras:
+  ![image](https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.1.%20Gestion%20de%20Produccion/1.1.2.2.1.%20VSM%20pre-automatización.png)
+
+## 1.1.2.2 VSM pre automatizado
+  ![image](https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.1.%20Gestion%20de%20Produccion/1.1.2.2.2.%20VSM%20pos-automatización.png)
+
+  Las etapas a automatizar se asumieron que se realizan sin ningún tipo de automatización.
+
+
+
+## 1.2 Módulo de industria 4.0
+
+## 1.2.1 Propuesta de Arquitectura de Red
+
+Como propuesta de arquitectura de red se pretende hacer una integración con las herramientas vistas en clase, para la celda robotizada se tiene una propuesta que conecta toda la suite de ABB para el control del robot así como la conexión a NX para los demás sensores y actuadoes.
+
+Las líneas rojas representan los protocolos de comunicación estándar, tales como análogo por corriente o voltaje, RS232 y MODBUS. Que suelen ser los protocolos utilizados por los sensores comunmente.
+
+En la etapa superior se propone un protocolo de comunicación TCP/IP, protocolo que puede implementarse para conectar sistemas de alto nivel a la nube y demás interfaces en tiempo real.
+
+![Diagrama de red-Página-1](https://github.com/dfcantors/Proyecto_APM/assets/51063831/fa50e89b-f4bf-45d0-9401-13e3ba98b44f)
+
+Para los demás sistemas en los que no se implementarán celdas robotizadas el cambio radica en la ausencia del controlador robótico, la integración será similar y la agrupación de PLC's se dividirá de la siguiente manera:
+
+![Diagrama de red-Página-3](https://github.com/dfcantors/Proyecto_APM/assets/51063831/6665e4f5-1fd4-45d6-9d08-94c6b3611c3d)
+
+## 1.2.2 Implementación de IoT
+
+- Información de estado de procesos (inicio y fin) a los supervisores de sección.
+- Envío de datos de falla a los supervisores y trabajadores de sección.
+- Reanudar y pausar los procesos de manera remota.
+- Registro central de los estados de los procesos.
+
+
+
 ## 1.3. Planeación del Proyecto (7 Pasos y Cronograma)
 ### EDT
 ![image](https://github.com/dfcantors/Proyecto_APM/assets/82415576/fae0568f-3207-43e5-95a1-0bb6bb61e4cb)
@@ -28,38 +64,12 @@ La información correspondiente se encuentra dentro de la carpeta:
 ### Cronograma Gantt
 ![image](https://github.com/dfcantors/Proyecto_APM/assets/83465309/a46352c6-846e-4887-8761-d30230babd30)
 
-
-
-## VSM
-  Se realizaron  2 VSM para el proceso pre automatización y automatizado, como se ven en las siguientes figuras:
-  ![image](https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.1.%20Gestion%20de%20Produccion/1.1.2.2.1.%20VSM%20pre-automatización.png)
-  ![image](https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.1.%20Gestion%20de%20Produccion/1.1.2.2.2.%20VSM%20pos-automatización.png)
-
-  Las etapas a automatizar se asumieron que se realizan sin ningún tipo de automatización.
-
-## Propuesta de Arquitectura de Red
-
-Como propuesta de arquitectura de red se pretende hacer una integración con las herramientas vistas en clase, para la celda robotizada se tiene una propuesta que conecta toda la suite de ABB para el control del robot así como la conexión a NX para los demás sensores y actuadoes.
-
-Las líneas rojas representan los protocolos de comunicación estándar, tales como análogo por corriente o voltaje, RS232 y MODBUS. Que suelen ser los protocolos utilizados por los sensores comunmente.
-
-En la etapa superior se propone un protocolo de comunicación TCP/IP, protocolo que puede implementarse para conectar sistemas de alto nivel a la nube y demás interfaces en tiempo real.
-
-![Diagrama de red-Página-1](https://github.com/dfcantors/Proyecto_APM/assets/51063831/fa50e89b-f4bf-45d0-9401-13e3ba98b44f)
-
-Para los demás sistemas en los que no se implementarán celdas robotizadas el cambio radica en la ausencia del controlador robótico, la integración será similar y la agrupación de PLC's se dividirá de la siguiente manera:
-
-![Diagrama de red-Página-3](https://github.com/dfcantors/Proyecto_APM/assets/51063831/6665e4f5-1fd4-45d6-9d08-94c6b3611c3d)
-
+## 1.4 Evaluación económica del proyecto
 
 ## Business Model Canvas
 
 Inicialmente se propone el siguiene Business Model Canvas para la empresa que constituimos para el proyecto:
 ![Business Model Canvas drawio](https://github.com/dfcantors/Proyecto_APM/assets/51063831/4c971e23-9043-4a2b-880d-9d04d4d4dff8)
-
-
-
-## 1.4 Evaluación económica del proyecto
 
 ### 1.4.1.	Excel con indicadores financieros completado.
 ![image](https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.4.%20Evaluacion%20Economica/1.4.1%20Excel.png)
@@ -80,7 +90,6 @@ El proyecto no generará ganancias durante los primeros cuatro meses de operaci�
 El proyecto tiene un costo de inversión estimado de $1.137.039.852 COP, que incluye gastos de interrupción de producción, maquinaria, robots, servicios y software, entre otros.
 
 Sin embargo, los indicadores financieros indican que el proyecto es viable a pesar de estos obstáculos iniciales, con un Valor Actual Neto (VAN) de $390.077.121 respecto a la inversión total y una Tasa Interna de Retorno (TIR) del 11%. Además, se estima que el período de recuperación de la inversión (payback) durará 19 meses, generando más de $1.160.000.000 en ingresos.
-
 
 ## Primera propuesta de layout
 
