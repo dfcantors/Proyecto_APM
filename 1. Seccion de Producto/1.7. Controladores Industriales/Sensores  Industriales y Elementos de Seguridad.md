@@ -80,7 +80,7 @@
     - **Referencia**: 800FP-MT44PX01S
     - **Precio**: $233.34 por unidad
     - **Tipo de Señal**: Digital
-    - **Estado**: Normalmente Abierto
+    - **Estado**: Normalmente Cerrado
     - **Descripción**: Interruptores de emergencia para detener el proceso en caso de emergencia.
 
 11. **Switch de Hombre Muerto**
