@@ -114,3 +114,13 @@
     - **Tipo de Señal**: Digital
     - **Estado**: Normalmente Abierto
     - **Descripción**: Balizas LED para indicar el estado de la máquina y alertar sobre condiciones peligrosas.
+   
+#### Botón de Reinicio
+15. **Botón de Reinicio**
+    - **Fabricante**: Siemens
+    - **Referencia**: 3SB3501-0AA21
+    - **Precio**: $35.00
+    - **Tipo de Señal**: Digital
+    - **Estado**: Normalmente Abierto
+    - **Descripción**: Botón de reinicio para restablecer el sistema después de un fallo o una parada de emergencia.
+
