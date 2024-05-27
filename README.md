@@ -159,3 +159,4 @@ La información correspondiente se encuentra dentro de la carpeta:
         
 ## 1.7 Contenido de módulo de controladores industriales completado.
 [Sensores y Equipos de Seguridad](https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.7.%20Controladores%20Industriales/Sensores%20%20Industriales%20y%20Elementos%20de%20Seguridad.md)
+[GRAFCET](https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.7.%20Controladores%20Industriales/GRAFCET.pdf)
