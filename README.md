@@ -138,10 +138,7 @@ Para la etapa de calidad se busca implementar en la linea de producción un Qual
 
 El proceso de embalaje de cajas se dividirá en 5 fases distintas. Esto contemplara el proceso desde el armado de la caja y la deposición de las baldosas en su imterior hasta el posicionamiento de las cajas y su cobertura de vinipel:
 
-- Doblado inicial de la caja: En esta etapa partimos de la caja desarmada completamente y a través de una máquina le daremos el formado respectivo para poner posteriormente las lozas.
-- Posicionamiento de las cerámicas dentro de la caja: Una vez armada la caja se dispondrá de un brazo que posicionará doce baldosas en cada caja mientras se mueven por una línea transportadora.
-
-![WhatsApp Image 2024-04-23 at 3 08 32 PM](https://github.com/dfcantors/Proyecto_APM/assets/51063831/40bb5654-509c-41a8-a91d-ee6f792a28dc)
+-Doblado y posicionamiento de las baldosas: La caja estará con los pliegues base y por la acción de presión de las baldosas por medio de una máquina se ensamblará a la vez que las baldosas quedarán empacadas.
 
 En este momento se están esperando las cotizaciones por parte de los proveedores, inicialmente se tienen las siguientes propuestas de robot que podrían cumplir con la tarea especificada:
 
