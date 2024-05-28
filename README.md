@@ -31,10 +31,8 @@ Como resultado de la simulación se obtiene la siguiente gráfica de eficiencia
 ### 1.1.2.1.3 KPI's Planteados
 =======
 #### 1.1.2.1.3 KPI's Planteados
->>>>>>> 6623e97d0244e6729959acd621fbb34b795e559f
 La información correspondiente se encuentra dentro de la carpeta:
-<br>
-        1.1 [Gestión de Producción](https://github.com/dfcantors/Proyecto_APM/tree/main/1.%20Seccion%20de%20Producto/1.1.%20Gestion%20de%20Produccion)
+1.1 [Gestión de Producción](https://github.com/dfcantors/Proyecto_APM/tree/main/1.%20Seccion%20de%20Producto/1.1.%20Gestion%20de%20Produccion)
 
 #### 1.1.2.1 VSM pre automatizado
   Se realizaron  2 VSM para el proceso pre automatización y automatizado, como se ven en las siguientes figuras:
