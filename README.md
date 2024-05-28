@@ -117,7 +117,22 @@ El proyecto tiene un costo de inversión estimado de $1.137.039.852 COP, que inc
 
 Sin embargo, los indicadores financieros indican que el proyecto es viable a pesar de estos obstáculos iniciales, con un Valor Actual Neto (VAN) de $390.077.121 respecto a la inversión total y una Tasa Interna de Retorno (TIR) del 11%. Además, se estima que el período de recuperación de la inversión (payback) durará 19 meses, generando más de $1.160.000.000 en ingresos.
 
-## Primera propuesta de layout
+## Primera propuesta en NX con Layout provisional
+Inicialmente se tiene un layout funcional en simulación con el fin de probar cada parte del plan de automatización desarrollado en cada máquina, es por esta razón que se tiene un ejemplar de cada sistema, una vez definida la producción individual por máquina se hará el ajuste numérico.
+La planta cuenta con las siguientes máquinas:
+-Silo con la mezcla ya preparada
+-Prensa
+-Secadora
+-Horno
+-Qualitron
+-Apiladora de baldosas / empaquetadora
+
+Siendo estos los sistemas en los cuales está más enfocada la propuesta de automatización.
+Paulatinamente se agregarán los sistemas restantes como el barnizado y el embalaje final para envío, así como la conexión con el PLC y su control.
+
+![Primera version planta](https://github.com/dfcantors/Proyecto_APM/assets/51063831/801da997-c34b-4679-9dc3-79cd4f020379)
+
+
 
 ## Partes del proceso que serán automatizadas
 
@@ -136,17 +151,10 @@ Para la etapa de calidad se busca implementar en la linea de producción un Qual
  - https://www.systemceramics.com/es/maquinas-para-ceramica/decoracion/creadigit 
 #### Embalaje de cajas
 
-El proceso de embalaje de cajas se dividirá en 5 fases distintas. Esto contemplara el proceso desde el armado de la caja y la deposición de las baldosas en su imterior hasta el posicionamiento de las cajas y su cobertura de vinipel:
+El proceso de embalaje de cajas se dividirá en 3 fases distintas. Esto contemplara el proceso desde el armado de la caja y su la disposición de las baldosas hasta su cobertura de vinipel:
 
--Doblado y posicionamiento de las baldosas: La caja estará con los pliegues base y por la acción de presión de las baldosas por medio de una máquina se ensamblará a la vez que las baldosas quedarán empacadas.
-
-En este momento se están esperando las cotizaciones por parte de los proveedores, inicialmente se tienen las siguientes propuestas de robot que podrían cumplir con la tarea especificada:
-
-![Captura de pantalla 2024-04-23 210805](https://github.com/dfcantors/Proyecto_APM/assets/51063831/a8f6d38b-f9e5-4dd8-8582-abe6ce4febed)
-
-
-- Cierre de la caja: En esta etapa se dispondrá de una máquina que pondrá pegamento doblará los bordes restantes para el sellado de la caja con el fin de terminar el producto que se enviará.
-- Posicionamiento de las cajas: Las cajas se ubican de acuerdo con la distribución definida para el transporte de las baldosas.
+-Doblado y posicionamiento de las baldosas: Las baldosas serán posicionadas previamente en grupos de a 5 las cuales entrarán a una empaquetadora que cumple la doble tarea de plegar la caja a la vez que las baldosas quedan correctamente colocadas en su interior.
+- Posicionamiento de las cajas: Las cajas se ubican de acuerdo con la distribución definida para el transporte de las baldosas esta tarea será realizada por un sistema robotizado para reducir tiempos. 
 - Embalaje del conjunto de cajas: Una máquina pondrá finalmente el vinipel para mantener fijas las cajas y protegerlas para el transporte.
  
 
