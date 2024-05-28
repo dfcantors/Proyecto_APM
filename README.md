@@ -25,8 +25,6 @@ Como resultado de la simulación se obtiene la siguiente gráfica de eficiencia
 
 ![alt text](image-1.png)
 
-<<<<<<< HEAD
-
 
 ### 1.1.2.1.3 KPI's Planteados
 =======
