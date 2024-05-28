@@ -168,3 +168,28 @@ La información correspondiente se encuentra dentro de la carpeta:
 ## 1.7 Contenido de módulo de controladores industriales completado.
 [Sensores y Equipos de Seguridad](https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.7.%20Controladores%20Industriales/Sensores%20%20Industriales%20y%20Elementos%20de%20Seguridad.md)\
 [GRAFCET](https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.7.%20Controladores%20Industriales/GRAFCET.pdf)
+
+### Diseño de HMIs
+![image](https://github.com/dfcantors/Proyecto_APM/assets/82415576/575150fe-4af1-4cba-9b20-6cdc27182f8c)
+![image](https://github.com/dfcantors/Proyecto_APM/assets/82415576/0a9245ee-f214-4ed9-83ee-d400522039d2)
+![image](https://github.com/dfcantors/Proyecto_APM/assets/82415576/b880c38c-42d0-4ea4-bb01-3444aa5a5844)
+![image](https://github.com/dfcantors/Proyecto_APM/assets/82415576/b0e45ce3-7e7a-44df-9412-8eafc4fa0ea8)
+![image](https://github.com/dfcantors/Proyecto_APM/assets/82415576/584379d8-9c65-4efd-a784-ec21ab523451)
+![image](https://github.com/dfcantors/Proyecto_APM/assets/82415576/80101f39-15d3-467f-9439-bdb6ba18d1cf)
+![image](https://github.com/dfcantors/Proyecto_APM/assets/82415576/57f67c63-1423-44b7-8755-4c823c42bbce)
+![image](https://github.com/dfcantors/Proyecto_APM/assets/82415576/19f4cb20-c3c1-4d8d-929e-cbefe653de90)
+![image](https://github.com/dfcantors/Proyecto_APM/assets/82415576/c8ddd333-7f07-486a-bc29-eb5d438268bc)
+![image](https://github.com/dfcantors/Proyecto_APM/assets/82415576/0a1bd1f1-39a8-405e-84fe-e7c4794fb50c)
+![image](https://github.com/dfcantors/Proyecto_APM/assets/82415576/f930e79e-aab3-4ed9-8b76-651d786efd8a)
+![image](https://github.com/dfcantors/Proyecto_APM/assets/82415576/c6970e6a-2c34-4fe8-90f4-d4bc4e9a2880)
+
+
+
+
+
+
+
+
+
+
+
