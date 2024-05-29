@@ -159,6 +159,12 @@ Para la etapa de calidad, la impresión de patrones y empaque de las cajas con l
 |                                         |                                                |
 | **Empacadora Multipack**                    | (System Ceramics)                             |
 | Formatos de baldosas               | de hasta 180x120 cm                           |
+
+
+- https://sacmi.com/sharedcontent/media/Documents/Ceramics/2023/FLAWMASTER.pdf
+- https://www.systemceramics.com/es/maquinas-para-ceramica/decoracion/creadigit-infinity
+- https://www.systemceramics.com/es/maquinas-para-ceramica/sistemas-de-embalaje/multipack
+
 #### Embalaje de cajas
 
 El proceso de embalaje de cajas se dividirá en 2 fases distintas. Esto contemplara el proceso desde el armado de la caja y la disposición de las baldosas hasta su cobertura de vinipel:
