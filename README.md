@@ -179,7 +179,7 @@ La información correspondiente se encuentra dentro de la carpeta:
 ![image](https://github.com/dfcantors/Proyecto_APM/assets/82415576/f930e79e-aab3-4ed9-8b76-651d786efd8a)
 ![image](https://github.com/dfcantors/Proyecto_APM/assets/82415576/c6970e6a-2c34-4fe8-90f4-d4bc4e9a2880)
 
-### Videos de Funcionamiento
+### Videos de Funcionamiento en Studio 5000
 - [HM1](https://www.youtube.com/watch?v=1UwHFIhBxOY)
 - [HM2](https://www.youtube.com/watch?v=0G1QRZ9wgGQ)
 - [Alarma de seguridad](https://www.youtube.com/watch?v=FA4ApRkRfco)
