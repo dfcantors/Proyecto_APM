@@ -40,7 +40,7 @@ La información correspondiente se encuentra dentro de la carpeta:
 
   Se tuvieron las siguientes consideraciones
   - Las etapas a automatizar se asumen son hechas por personal
-  - La disponibilidad y demas tiempos se aplcian de la misma manera a los 3 productos.
+  - La disponibilidad y demas tiempos se aplican de la misma manera a los 3 productos.
 
 
 
