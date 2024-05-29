@@ -223,7 +223,21 @@ Se terminó escogiendo el robot IBR 6700 de ABB, como se evidencia en el video d
 [Juan Fernando Ramírez Montes](https://github.com/dfcantors/Proyecto_APM/files/15487699/Reflexion.Individual.Juan.Fernando.Ramirez.Montes.pdf)  
 
 ## Grupal
+El trabajo en grupo para la materia de Automatización de Procesos de Manufactura ha sido una experiencia enriquecedora que nos ha permitido aplicar conocimientos teóricos en un contexto práctico, enfrentando y superando desafíos reales en el ámbito de la automatización industrial. A continuación, se presenta una síntesis de las lecciones aprendidas y los logros alcanzados durante el proyecto.
 
+El proyecto nos ha permitido aplicar en profundidad nuestros conocimientos en programación industrial y manejo de indicadores clave. La transición de la lógica de compuertas a la programación Ladder ha sido particularmente significativa, proporcionando una visión estructurada para optimizar procesos industriales. Esta experiencia ha reforzado nuestra pasión y habilidad en el ámbito de la automatización.
 
+La integración de diversos sensores y actuadores ha sido crucial para optimizar la producción de baldosas cerámicas. Comprender y configurar dispositivos de seguridad y sistemas de control en Ladder ha sido fundamental para garantizar un flujo de trabajo seguro y eficiente. La importancia de la planificación y documentación adecuadas se ha manifestado en la creación de diagramas GRAFCET detallados, facilitando el diseño y la ejecución del proyecto.
 
+A lo largo del proyecto, hemos adquirido valiosa experiencia técnica y organizacional al investigar y seleccionar tecnologías actuales para la automatización de una planta de producción de baldosas. La programación en Ladder y el análisis económico para justificar inversiones han sido esenciales para mejorar la eficiencia y sostenibilidad del sistema. Este enfoque ha permitido una integración fluida de componentes y una toma de decisiones informada basada en análisis financieros.
+
+El curso ha fortalecido nuestro carácter emprendedor y nuestra visión de negocio, destacando la importancia de proponer proyectos realizables con metas claras y una excelente planeación. La utilización de herramientas como el gemelo digital y la elección de tecnologías adecuadas han sido claves para generar un impacto positivo en la industria. La modalidad de trabajo en equipo ha sido particularmente enriquecedora, promoviendo la coordinación y el aprendizaje colaborativo.
+
+En conjunto, el trabajo de grupo ha permitido:
+- Aplicar y consolidar conocimientos técnicos: Desde la programación en Ladder hasta la integración de sensores y actuadores, hemos contribuido con nuestras habilidades específicas para lograr un sistema automatizado eficiente.
+- Desarrollar habilidades organizacionales y de planificación: La importancia de una buena planificación y documentación se ha reflejado en la creación de diagramas detallados y una gestión eficiente del proyecto.
+- Enfrentar y superar desafíos reales: La presión del tiempo y las limitaciones encontradas han sido superadas gracias a la dedicación y esfuerzo conjunto, resultando en un proyecto exitoso que refleja una alta calidad técnica y organizacional.
+- Fomentar la colaboración y el aprendizaje mutuo: La dinámica de trabajo en equipo ha permitido aprender unos de otros, fortaleciendo nuestra capacidad para trabajar en entornos reales de la industria.
+
+El proyecto de Automatización de Procesos de Manufactura no solo ha sido un ejercicio académico, sino una experiencia práctica que nos ha preparado para los retos del mundo industrial. La combinación de conocimientos teóricos, habilidades técnicas y organizacionales, y la colaboración efectiva ha resultado en un proyecto que no solo cumple con los objetivos planteados, sino que también ha proporcionado un aprendizaje valioso y duradero para todos los involucrados.
 
