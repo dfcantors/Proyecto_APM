@@ -83,7 +83,7 @@ Para los demás sistemas en los que no se implementarán celdas robotizadas el c
 ### RACI
 ![image](https://github.com/dfcantors/Proyecto_APM/assets/82415576/13c69598-0434-48d8-9823-c905c539a79c)
 ### Cronograma Gantt
-![image](https://github.com/dfcantors/Proyecto_APM/assets/83465309/a46352c6-846e-4887-8761-d30230babd30)
+![image]![image](https://github.com/dfcantors/Proyecto_APM/assets/83465309/cb6a5cf2-17f6-42c4-88c4-09c501aea7a7)
 
 ## 1.4 Evaluación económica del proyecto
 
