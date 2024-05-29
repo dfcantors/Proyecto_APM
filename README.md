@@ -118,16 +118,18 @@ Inicialmente se tiene un layout funcional en simulación con el fin de probar ca
 La planta cuenta con las siguientes máquinas:
 -Silo con la mezcla ya preparada
 -Prensa
+-Volteadora de baldosas
 -Secadora
+-Barnizadora
 -Horno
+-Máquina de pintado
 -Qualitron
+-Clasificador
 -Apiladora de baldosas / empaquetadora
 
-Siendo estos los sistemas en los cuales está más enfocada la propuesta de automatización.
-Paulatinamente se agregarán los sistemas restantes como el barnizado y el embalaje final para envío, así como la conexión con el PLC y su control.
+Siendo estos los procesos automatizables dentro de la fábrica.
 
-![Primera version planta](https://github.com/dfcantors/Proyecto_APM/assets/51063831/801da997-c34b-4679-9dc3-79cd4f020379)
-
+![Fabrica completa](https://github.com/dfcantors/Proyecto_APM/assets/51063831/4db018ed-08c7-48ab-862c-2e5e7a69720f)
 
 
 ## Partes del proceso que serán automatizadas
