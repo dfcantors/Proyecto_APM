@@ -95,8 +95,6 @@ Inicialmente se propone el siguiene Business Model Canvas para la empresa que co
 ### 1.4.1.	Excel con indicadores financieros completado.
 ![image](https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.4.%20Evaluacion%20Economica/1.4.1%20Excel.png)
 
-Se presenta la tabla con los datos y cálculos realizados para la evalución de viabilidad del proyecto, en los gastos se encuentra el valor de inversión para maquinarias incluyendo software y hardware con un valor aproximado de 823 Millones de pesos colombianos, se tiene en cuenta el pago de nómina para 6 ingenieros implicados y valor de implementación del proyecto, para los ingresos durante los primeros 4 meses no se va a generar nada debido a que estos se utilizaran para la implementación e instalación, depués de estos primeros 4 meses se tendra un ingreso mensual de 212 Millones de pesos colombianos.
-
 ### 1.4.1.1.	 VPN   y    1.4.1.2.	 TIR calculados.
 ![image](https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.4.%20Evaluacion%20Economica/1.4.1.1%20VPN%20y%201.4.1.2%20TIR.png)
 
