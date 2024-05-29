@@ -201,7 +201,7 @@ Se terminó escogiendo el robot IBR 6700 de ABB, como se evidencia en el video d
 # Reflexiones
 ## Individuales
 [Luis David Preciado Martinez](https://github.com/dfcantors/Proyecto_APM/blob/main/2.%20Seccion%20de%20Reflexiones/2.1.%20Individales/Reflexi%C3%B3n%20Individual%20-%20Luis%20David%20Preciado.pdf)
-
+[Juan David Morales Restrepo](https://github.com/dfcantors/Proyecto_APM/blob/main/2.%20Seccion%20de%20Reflexiones/2.1.%20Individales/Reflexión%20Individual%20-%20Juan%20Morales.pdf)
 ## Grupal
 
 
