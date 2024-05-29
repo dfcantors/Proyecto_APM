@@ -23,7 +23,7 @@ https://youtu.be/z5MI-h-2oKE
 
 Como resultado de la simulación se obtiene la siguiente gráfica de eficiencia 
 
-![alt text](image-1.png)
+![image](https://github.com/dfcantors/Proyecto_APM/assets/82415576/93f57528-129d-4f03-a218-755b8eaee475)
 
 
 ### 1.1.2.1.3 KPI's Planteados
