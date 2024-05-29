@@ -145,10 +145,20 @@ Se seleccionaron la impresion de patrones, el proceso de calidad del producto y 
  - https://www.iris-im.com/complete-inspection-line/
 
 #### Calidad del producto
-Para la etapa de calidad se busca implementar en la linea de producción un Qualitron. Nuevamente debido a que no han llegado las cotizaciones y no todas las caracteristicas de las máquinas pueden hallarse, entre las posibles opciones se tienen:
- - https://www.efi.com/products/industrial-printing/ceramics/efi-cretaprint-printers/
- - https://kerajet.com/es/soluciones-para-ceramica/
- - https://www.systemceramics.com/es/maquinas-para-ceramica/decoracion/creadigit 
+Para la etapa de calidad, la impresión de patrones y empaque de las cajas con las baldosas, se escogieron las siguientes máquinas:
+
+| Máquina                                 | Detalles                                       |
+|-----------------------------------------|------------------------------------------------|
+| Qualitron Flawmarter120                | (System Ceramics)                              |
+| Medidas                                | 12000x1800 mm                                  |
+| Impresora de patrones Infinity 2.1     | (System Ceramics)                              |
+| Longitud                                | 6,4mm                                          |
+| Resolución                              | hasta 600 PPP                                  |
+| Ancho de impresión                      | hasta 2100 mm                                  |
+|                                         |                                                |
+|                                         |                                                |
+| Empacadora Multipack                    | (System Ceramics)                             |
+| Para formatos de baldosas               | de hasta 180x120 cm                           |
 #### Embalaje de cajas
 
 El proceso de embalaje de cajas se dividirá en 2 fases distintas. Esto contemplara el proceso desde el armado de la caja y la disposición de las baldosas hasta su cobertura de vinipel:
