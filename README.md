@@ -147,11 +147,14 @@ Para la etapa de calidad se busca implementar en la linea de producción un Qual
  - https://www.systemceramics.com/es/maquinas-para-ceramica/decoracion/creadigit 
 #### Embalaje de cajas
 
-El proceso de embalaje de cajas se dividirá en 3 fases distintas. Esto contemplara el proceso desde el armado de la caja y su la disposición de las baldosas hasta su cobertura de vinipel:
+El proceso de embalaje de cajas se dividirá en 2 fases distintas. Esto contemplara el proceso desde el armado de la caja y la disposición de las baldosas hasta su cobertura de vinipel:
 
--Doblado y posicionamiento de las baldosas: Las baldosas serán posicionadas previamente en grupos de a 5 las cuales entrarán a una empaquetadora que cumple la doble tarea de plegar la caja a la vez que las baldosas quedan correctamente colocadas en su interior.
+- Doblado y posicionamiento de las baldosas: Las baldosas serán posicionadas previamente en grupos de a 5 las cuales entrarán a una empaquetadora que cumple la doble tarea de plegar la caja a la vez que las baldosas quedan correctamente colocadas en su interior.
 - Posicionamiento de las cajas: Las cajas se ubican de acuerdo con la distribución definida para el transporte de las baldosas esta tarea será realizada por un sistema robotizado para reducir tiempos. 
-- Embalaje del conjunto de cajas: Una máquina pondrá finalmente el vinipel para mantener fijas las cajas y protegerlas para el transporte.
+
+La celda robotizada se diseñó de la siguiente manera:
+[![Ver en YouTube](https://img.youtube.com/vi/A6Pkuksjzn0/maxresdefault.jpg)](https://www.youtube.com/watch?v=A6Pkuksjzn0)
+
  
 
 ### Robots propuestos para cada parte del proceso
@@ -160,6 +163,8 @@ El proceso de embalaje de cajas se dividirá en 3 fases distintas. Esto contempl
 La información correspondiente se encuentra dentro de la carpeta:
 <br>
         1.5 [Contenido de módulo de celda de manufactura robotizada completado](https://github.com/dfcantors/Proyecto_APM/tree/main/1.%20Seccion%20de%20Producto/1.5.%20Celda%20Robotizada)
+
+Se terminó escogiendo el robot IBR 6700 de ABB, como se evidencia en el video de simulación.
         
 ## 1.7 Contenido de módulo de controladores industriales completado.
 [Sensores y Equipos de Seguridad](https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.7.%20Controladores%20Industriales/Sensores%20%20Industriales%20y%20Elementos%20de%20Seguridad.md)\
