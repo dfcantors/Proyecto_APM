@@ -38,7 +38,9 @@ La información correspondiente se encuentra dentro de la carpeta:
 #### 1.1.2.2 VSM pre automatizado
   ![image](https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.1.%20Gestion%20de%20Produccion/1.1.2.2.2.%20VSM%20pos-automatización.png)
 
-  Las etapas a automatizar se asumieron que se realizan por personal
+  Se tuvieron las siguientes consideraciones
+  - Las etapas a automatizar se asumen son hechas por personal
+  - La disponibilidad y demas tiempos se aplcian de la misma manera a los 3 productos.
 
 
 
