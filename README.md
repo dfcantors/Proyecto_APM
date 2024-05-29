@@ -115,7 +115,7 @@ Sin embargo, los indicadores financieros indican que el proyecto es viable a pes
 
 El beneficio de Chía Dynamics en un proyecto de este estilo es del 23,22% del costo del total del proyecto, lo equivalente a 246.802.466 COP.
 
-## Primera propuesta en NX con Layout provisional
+## 1.6 Primera propuesta en NX con Layout provisional
 Inicialmente se tiene un layout funcional en simulación con el fin de probar cada parte del plan de automatización desarrollado en cada máquina, es por esta razón que se tiene un ejemplar de cada sistema, una vez definida la producción individual por máquina se hará el ajuste numérico.
 La planta cuenta con las siguientes máquinas:  
 -Silo con la mezcla ya preparada  
