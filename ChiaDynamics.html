@@ -1,11 +1,12 @@
 
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Propuesta de automatización para la industria cerámica</title>
-    <style>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Propuesta de automatización para la industria cerámica</title>
+<style>
         body {
             font-family: Arial, sans-serif;
             background-color: #F4EBD0;
@@ -21,6 +22,8 @@
         }
         main {
             padding: 20px;
+            background-color: #122620;
+            color: #ffffff;
         }
         h1, h2, h3, h4, h5, h6 {
             color: #B68D40;
@@ -31,7 +34,7 @@
         .content {
             max-width: 800px;
             margin: 0 auto;
-            background-color: #fff;
+            background-color: #122620;
             padding: 20px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
@@ -40,29 +43,47 @@
             height: auto;
         }
     </style>
-</head>
+<style>
+    nav {
+        background-color: #122620;
+        padding: 10px;
+    }
+    nav ul {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+        display: flex;
+        justify-content: space-around;
+    }
+    nav ul li {
+        display: inline;
+    }
+    nav ul li a {
+        color: #F4EBD0;
+        text-decoration: none;
+        padding: 10px 20px;
+    }
+    nav ul li a:hover {
+        background-color: #B68D40;
+        color: #122620;
+    }
+</style></head>
 <body>
-    <header>
-        <h1>Propuesta de automatización para la industria cerámica - Chía Dynamics</h1>
-    </header>
-    <main>
-        <div class="content">
-            <h1>
- Propuesta de automatización para la industria cerámica - Chía Dynamics :factory:
-</h1>
+<header>
+<h1>Propuesta de automatización para la industria cerámica - Chía Dynamics</h1>
+</header>
+<main>
+<div class="content">
 <p>
- <img alt="Chia Dynamics (3)" src="https://github.com/dfcantors/Proyecto_APM/assets/82415576/4d8c8762-f4c8-48ab-99b0-9d2236f686b9"/>
+<img alt="Chia Dynamics (3)" src="https://github.com/dfcantors/Proyecto_APM/assets/82415576/4d8c8762-f4c8-48ab-99b0-9d2236f686b9"/>
 </p>
-<h2>
- Objetivos
-</h2>
-<h2>
+<h2 id="Contextualización_del_proyecto">
  Contextualización del proyecto
 </h2>
-<h2>
+<h2 id="1.1_Gestión_de_producción">
  1.1 Gestión de producción
 </h2>
-<h2>
+<h2 id="1.1.1_Análisis_de_la_planta">
  1.1.1 Análisis de la planta
 </h2>
 <h4>
@@ -87,7 +108,7 @@
  Como resultado de la simulación se obtiene la siguiente gráfica de eficiencia
 </p>
 <p>
- <img alt="image" src="https://github.com/dfcantors/Proyecto_APM/assets/82415576/93f57528-129d-4f03-a218-755b8eaee475"/>
+<img alt="image" src="https://github.com/dfcantors/Proyecto_APM/assets/82415576/93f57528-129d-4f03-a218-755b8eaee475"/>
 </p>
 <h3>
  1.1.2.1.3 KPI's Planteados
@@ -113,12 +134,12 @@
  1.1.2.2 VSM pre automatizado
 </h4>
 <p>
- <img alt="image" src="https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.1.%20Gestion%20de%20Produccion/1.1.2.2.2.%20VSM%20pos-automatización.png"/>
+<img alt="image" src="https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.1.%20Gestion%20de%20Produccion/1.1.2.2.2.%20VSM%20pos-automatización.png"/>
 </p>
 <p>
  Las etapas a automatizar se asumieron que se realizan por personal
 </p>
-<h2>
+<h2 id="1.2_Módulo_de_industria_4.0">
  1.2 Módulo de industria 4.0
 </h2>
 <h3>
@@ -134,75 +155,75 @@
  En la etapa superior se propone un protocolo de comunicación TCP/IP, protocolo que puede implementarse para conectar sistemas de alto nivel a la nube y demás interfaces en tiempo real.
 </p>
 <p>
- <img alt="Diagrama de red-Página-1" src="https://github.com/dfcantors/Proyecto_APM/assets/51063831/fa50e89b-f4bf-45d0-9401-13e3ba98b44f"/>
+<img alt="Diagrama de red-Página-1" src="https://github.com/dfcantors/Proyecto_APM/assets/51063831/fa50e89b-f4bf-45d0-9401-13e3ba98b44f"/>
 </p>
 <p>
  Para los demás sistemas en los que no se implementarán celdas robotizadas el cambio radica en la ausencia del controlador robótico, la integración será similar y la agrupación de PLC's se dividirá de la siguiente manera:
 </p>
 <p>
- <img alt="Diagrama de red-Página-3" src="https://github.com/dfcantors/Proyecto_APM/assets/51063831/6665e4f5-1fd4-45d6-9d08-94c6b3611c3d"/>
+<img alt="Diagrama de red-Página-3" src="https://github.com/dfcantors/Proyecto_APM/assets/51063831/6665e4f5-1fd4-45d6-9d08-94c6b3611c3d"/>
 </p>
 <h3>
  1.2.2 Implementación de IoT
 </h3>
 <ul>
- <li>
+<li>
   Información de estado de procesos (inicio y fin) a los supervisores de sección.
  </li>
- <li>
+<li>
   Envío de datos de falla a los supervisores y trabajadores de sección.
  </li>
- <li>
+<li>
   Reanudar y pausar los procesos de manera remota.
  </li>
- <li>
+<li>
   Registro central de los estados de los procesos.
  </li>
 </ul>
-<h2>
+<h2 id="1.3._Planeación_del_Proyecto_(7_Pasos_y_Cronograma)">
  1.3. Planeación del Proyecto (7 Pasos y Cronograma)
 </h2>
 <h3>
  EDT
 </h3>
 <p>
- <img alt="image" src="https://github.com/dfcantors/Proyecto_APM/assets/82415576/fae0568f-3207-43e5-95a1-0bb6bb61e4cb"/>
+<img alt="image" src="https://github.com/dfcantors/Proyecto_APM/assets/82415576/fae0568f-3207-43e5-95a1-0bb6bb61e4cb"/>
 </p>
 <h3>
  Adquisiciones
 </h3>
 <p>
- <img alt="image" src="https://github.com/dfcantors/Proyecto_APM/assets/82415576/4d1bf957-31d1-4d04-a3e4-e632fc9817ac"/>
+<img alt="image" src="https://github.com/dfcantors/Proyecto_APM/assets/82415576/4d1bf957-31d1-4d04-a3e4-e632fc9817ac"/>
 </p>
 <h3>
  Costo y Tiempos
 </h3>
 <p>
- <img alt="image" src="https://github.com/dfcantors/Proyecto_APM/assets/82415576/faabf7e8-9550-4612-a282-fa2c23c06098"/>
+<img alt="image" src="https://github.com/dfcantors/Proyecto_APM/assets/82415576/faabf7e8-9550-4612-a282-fa2c23c06098"/>
 </p>
 <h3>
  Riesgos
 </h3>
 <p>
- <img alt="image" src="https://github.com/dfcantors/Proyecto_APM/assets/82415576/742736bd-3dc1-471a-b2ba-27741c3ef9c3"/>
+<img alt="image" src="https://github.com/dfcantors/Proyecto_APM/assets/82415576/742736bd-3dc1-471a-b2ba-27741c3ef9c3"/>
 </p>
 <h3>
  Stakeholders
 </h3>
 <p>
- <img alt="image" src="https://github.com/dfcantors/Proyecto_APM/assets/82415576/b917c409-9bb9-4b9b-a19a-fa85ac14ea3b"/>
+<img alt="image" src="https://github.com/dfcantors/Proyecto_APM/assets/82415576/b917c409-9bb9-4b9b-a19a-fa85ac14ea3b"/>
 </p>
 <h3>
  Matriz de Comunicaciones
 </h3>
 <p>
- <img alt="image" src="https://github.com/dfcantors/Proyecto_APM/assets/82415576/3f99db54-fbb3-424d-a4e8-377516b981f4"/>
+<img alt="image" src="https://github.com/dfcantors/Proyecto_APM/assets/82415576/3f99db54-fbb3-424d-a4e8-377516b981f4"/>
 </p>
 <h3>
  RACI
 </h3>
 <p>
- <img alt="image" src="https://github.com/dfcantors/Proyecto_APM/assets/82415576/13c69598-0434-48d8-9823-c905c539a79c"/>
+<img alt="image" src="https://github.com/dfcantors/Proyecto_APM/assets/82415576/13c69598-0434-48d8-9823-c905c539a79c"/>
 </p>
 <h3>
  Cronograma Gantt
@@ -211,10 +232,10 @@
  ![image]
  <img alt="image" src="https://github.com/dfcantors/Proyecto_APM/assets/83465309/cb6a5cf2-17f6-42c4-88c4-09c501aea7a7"/>
 </p>
-<h2>
+<h2 id="1.4_Evaluación_económica_del_proyecto">
  1.4 Evaluación económica del proyecto
 </h2>
-<h2>
+<h2 id="Business_Model_Canvas">
  Business Model Canvas
 </h2>
 <p>
@@ -225,22 +246,22 @@
  1.4.1.  Excel con indicadores financieros completado.
 </h3>
 <p>
- <img alt="image" src="https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.4.%20Evaluacion%20Economica/1.4.1%20Excel.png"/>
+<img alt="image" src="https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.4.%20Evaluacion%20Economica/1.4.1%20Excel.png?raw=true"/>
 </p>
 <h3>
  1.4.1.1.     VPN   y    1.4.1.2.     TIR calculados.
 </h3>
 <p>
- <img alt="image" src="https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.4.%20Evaluacion%20Economica/1.4.1.1%20VPN%20y%201.4.1.2%20TIR.png"/>
+<img alt="image" src="https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.4.%20Evaluacion%20Economica/1.4.1.1%20VPN%20y%201.4.1.2%20TIR.png?raw=true"/>
 </p>
 <h3>
  1.4.1.3.     Payback calculado.
 </h3>
 <p>
- <img alt="image" src="https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.4.%20Evaluacion%20Economica/1.4.1.3%20Payback.png"/>
+<img alt="image" src="https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.4.%20Evaluacion%20Economica/1.4.1.3%20Payback.png?raw=true"/>
 </p>
 <p>
- <img alt="image" src="https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.4.%20Evaluacion%20Economica/1.4.1.3%20Payback%202.png"/>
+<img alt="image" src="https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.4.%20Evaluacion%20Economica/1.4.1.3%20Payback%202.png?raw=true"/>
 </p>
 <h3>
  1.4.2.  Oferta comercial escrita.
@@ -257,7 +278,7 @@
 <p>
  El beneficio de Chía Dynamics en un proyecto de este estilo es del 23,22% del costo del total del proyecto, lo equivalente a 246.802.466 COP.
 </p>
-<h2>
+<h2 id="Primera_propuesta_en_NX_con_Layout_provisional">
  Primera propuesta en NX con Layout provisional
 </h2>
 <p>
@@ -288,12 +309,12 @@ La planta cuenta con las siguientes máquinas:
  Siendo estos los procesos automatizables dentro de la fábrica.
 </p>
 <p>
- <img alt="Fabrica completa" src="https://github.com/dfcantors/Proyecto_APM/assets/51063831/4db018ed-08c7-48ab-862c-2e5e7a69720f"/>
+<img alt="Fabrica completa" src="https://github.com/dfcantors/Proyecto_APM/assets/51063831/4db018ed-08c7-48ab-862c-2e5e7a69720f"/>
 </p>
-<h2>
+<h2 id="Partes_del_proceso_que_serán_automatizadas">
  Partes del proceso que serán automatizadas
 </h2>
-<h2>
+<h2 id="Propuesta_inicial_de_automatización">
  Propuesta inicial de automatización
 </h2>
 <p>
@@ -303,19 +324,23 @@ La planta cuenta con las siguientes máquinas:
  Impresion de patrones
 </h4>
 <p>
- Implentacion de máquina impresora de patrones, se pidió cotización pero aun se espera respuesta, por lo que las maquinas entre las opciones a elegir son:
- - https://www.systemceramics.com/es/maquinas-para-ceramica/control-de-calidad/qualitron
- - https://sacmi.com/en-us/ceramics/Tiles/Sorting,-packing-and-pallettizing
- - https://www.iris-im.com/complete-inspection-line/
+    Implentacion de máquina impresora de patrones, se pidió cotización pero aun se espera respuesta, por lo que las maquinas entre las opciones a elegir son:
+    <ul>
+<li><a href="https://www.systemceramics.com/es/maquinas-para-ceramica/control-de-calidad/qualitron" target="_blank">https://www.systemceramics.com/es/maquinas-para-ceramica/control-de-calidad/qualitron</a></li>
+<li><a href="https://sacmi.com/en-us/ceramics/Tiles/Sorting,-packing-and-pallettizing" target="_blank">https://sacmi.com/en-us/ceramics/Tiles/Sorting,-packing-and-pallettizing</a></li>
+<li><a href="https://www.iris-im.com/complete-inspection-line/" target="_blank">https://www.iris-im.com/complete-inspection-line/</a></li>
+</ul>
 </p>
 <h4>
  Calidad del producto
 </h4>
 <p>
- Para la etapa de calidad se busca implementar en la linea de producción un Qualitron. Nuevamente debido a que no han llegado las cotizaciones y no todas las caracteristicas de las máquinas pueden hallarse, entre las posibles opciones se tienen:
- - https://www.efi.com/products/industrial-printing/ceramics/efi-cretaprint-printers/
- - https://kerajet.com/es/soluciones-para-ceramica/
- - https://www.systemceramics.com/es/maquinas-para-ceramica/decoracion/creadigit
+    Para la etapa de calidad se busca implementar en la linea de producción un Qualitron. Nuevamente debido a que no han llegado las cotizaciones y no todas las caracteristicas de las máquinas pueden hallarse, entre las posibles opciones se tienen:
+    <ul>
+<li><a href="https://www.efi.com/products/industrial-printing/ceramics/efi-cretaprint-printers/" target="_blank">https://www.efi.com/products/industrial-printing/ceramics/efi-cretaprint-printers/</a></li>
+<li><a href="https://kerajet.com/es/soluciones-para-ceramica/" target="_blank">https://kerajet.com/es/soluciones-para-ceramica/</a></li>
+<li><a href="https://www.systemceramics.com/es/maquinas-para-ceramica/decoracion/creadigit" target="_blank">https://www.systemceramics.com/es/maquinas-para-ceramica/decoracion/creadigit</a></li>
+</ul>
 </p>
 <h4>
  Embalaje de cajas
@@ -324,23 +349,23 @@ La planta cuenta con las siguientes máquinas:
  El proceso de embalaje de cajas se dividirá en 2 fases distintas. Esto contemplara el proceso desde el armado de la caja y la disposición de las baldosas hasta su cobertura de vinipel:
 </p>
 <ul>
- <li>
+<li>
   Doblado y posicionamiento de las baldosas: Las baldosas serán posicionadas previamente en grupos de a 5 las cuales entrarán a una empaquetadora que cumple la doble tarea de plegar la caja a la vez que las baldosas quedan correctamente colocadas en su interior.
  </li>
- <li>
+<li>
   Posicionamiento de las cajas: Las cajas se ubican de acuerdo con la distribución definida para el transporte de las baldosas esta tarea será realizada por un sistema robotizado para reducir tiempos.
  </li>
 </ul>
 <p>
  La celda robotizada se diseñó de la siguiente manera:
  <a href="https://www.youtube.com/watch?v=A6Pkuksjzn0">
-  <img alt="Ver en YouTube" src="https://img.youtube.com/vi/A6Pkuksjzn0/maxresdefault.jpg"/>
- </a>
+<img alt="Ver en YouTube" src="https://img.youtube.com/vi/A6Pkuksjzn0/maxresdefault.jpg"/>
+</a>
 </p>
 <h3>
  Robots propuestos para cada parte del proceso
 </h3>
-<h2>
+<h2 id="1.5.4_Análisis_de_riesgo_y_peligros">
  1.5.4 Análisis de riesgo y peligros
 </h2>
 <p>
@@ -354,11 +379,11 @@ La planta cuenta con las siguientes máquinas:
 <p>
  Se terminó escogiendo el robot IBR 6700 de ABB, como se evidencia en el video de simulación.
 </p>
-<h2>
+<h2 id="1.7_Contenido_de_módulo_de_controladores_industriales_completado.">
  1.7 Contenido de módulo de controladores industriales completado.
 </h2>
 <p>
- <a href="https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.7.%20Controladores%20Industriales/Sensores%20%20Industriales%20y%20Elementos%20de%20Seguridad.md">
+<a href="https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.7.%20Controladores%20Industriales/Sensores%20%20Industriales%20y%20Elementos%20de%20Seguridad.md">
   Sensores y Equipos de Seguridad
  </a>
  \
@@ -378,80 +403,79 @@ La planta cuenta con las siguientes máquinas:
  Diseño de HMIs
 </h3>
 <p>
- <img alt="image" src="https://github.com/dfcantors/Proyecto_APM/assets/82415576/575150fe-4af1-4cba-9b20-6cdc27182f8c"/>
- <img alt="image" src="https://github.com/dfcantors/Proyecto_APM/assets/82415576/0a9245ee-f214-4ed9-83ee-d400522039d2"/>
- <img alt="image" src="https://github.com/dfcantors/Proyecto_APM/assets/82415576/b880c38c-42d0-4ea4-bb01-3444aa5a5844"/>
- <img alt="image" src="https://github.com/dfcantors/Proyecto_APM/assets/82415576/b0e45ce3-7e7a-44df-9412-8eafc4fa0ea8"/>
- <img alt="image" src="https://github.com/dfcantors/Proyecto_APM/assets/82415576/584379d8-9c65-4efd-a784-ec21ab523451"/>
- <img alt="image" src="https://github.com/dfcantors/Proyecto_APM/assets/82415576/80101f39-15d3-467f-9439-bdb6ba18d1cf"/>
- <img alt="image" src="https://github.com/dfcantors/Proyecto_APM/assets/82415576/57f67c63-1423-44b7-8755-4c823c42bbce"/>
- <img alt="image" src="https://github.com/dfcantors/Proyecto_APM/assets/82415576/19f4cb20-c3c1-4d8d-929e-cbefe653de90"/>
- <img alt="image" src="https://github.com/dfcantors/Proyecto_APM/assets/82415576/c8ddd333-7f07-486a-bc29-eb5d438268bc"/>
- <img alt="image" src="https://github.com/dfcantors/Proyecto_APM/assets/82415576/0a1bd1f1-39a8-405e-84fe-e7c4794fb50c"/>
- <img alt="image" src="https://github.com/dfcantors/Proyecto_APM/assets/82415576/f930e79e-aab3-4ed9-8b76-651d786efd8a"/>
- <img alt="image" src="https://github.com/dfcantors/Proyecto_APM/assets/82415576/c6970e6a-2c34-4fe8-90f4-d4bc4e9a2880"/>
+<img alt="image" src="https://github.com/dfcantors/Proyecto_APM/assets/82415576/575150fe-4af1-4cba-9b20-6cdc27182f8c"/>
+<img alt="image" src="https://github.com/dfcantors/Proyecto_APM/assets/82415576/0a9245ee-f214-4ed9-83ee-d400522039d2"/>
+<img alt="image" src="https://github.com/dfcantors/Proyecto_APM/assets/82415576/b880c38c-42d0-4ea4-bb01-3444aa5a5844"/>
+<img alt="image" src="https://github.com/dfcantors/Proyecto_APM/assets/82415576/b0e45ce3-7e7a-44df-9412-8eafc4fa0ea8"/>
+<img alt="image" src="https://github.com/dfcantors/Proyecto_APM/assets/82415576/584379d8-9c65-4efd-a784-ec21ab523451"/>
+<img alt="image" src="https://github.com/dfcantors/Proyecto_APM/assets/82415576/80101f39-15d3-467f-9439-bdb6ba18d1cf"/>
+<img alt="image" src="https://github.com/dfcantors/Proyecto_APM/assets/82415576/57f67c63-1423-44b7-8755-4c823c42bbce"/>
+<img alt="image" src="https://github.com/dfcantors/Proyecto_APM/assets/82415576/19f4cb20-c3c1-4d8d-929e-cbefe653de90"/>
+<img alt="image" src="https://github.com/dfcantors/Proyecto_APM/assets/82415576/c8ddd333-7f07-486a-bc29-eb5d438268bc"/>
+<img alt="image" src="https://github.com/dfcantors/Proyecto_APM/assets/82415576/0a1bd1f1-39a8-405e-84fe-e7c4794fb50c"/>
+<img alt="image" src="https://github.com/dfcantors/Proyecto_APM/assets/82415576/f930e79e-aab3-4ed9-8b76-651d786efd8a"/>
+<img alt="image" src="https://github.com/dfcantors/Proyecto_APM/assets/82415576/c6970e6a-2c34-4fe8-90f4-d4bc4e9a2880"/>
 </p>
 <h3>
  Videos de Funcionamiento en Studio 5000
 </h3>
 <ul>
- <li>
-  <a href="https://www.youtube.com/watch?v=1UwHFIhBxOY">
+<li>
+<a href="https://www.youtube.com/watch?v=1UwHFIhBxOY">
    HM1
   </a>
- </li>
- <li>
-  <a href="https://www.youtube.com/watch?v=0G1QRZ9wgGQ">
+</li>
+<li>
+<a href="https://www.youtube.com/watch?v=0G1QRZ9wgGQ">
    HM2
   </a>
- </li>
- <li>
-  <a href="https://www.youtube.com/watch?v=FA4ApRkRfco">
+</li>
+<li>
+<a href="https://www.youtube.com/watch?v=FA4ApRkRfco">
    Alarma de seguridad
   </a>
- </li>
- <li>
-  <a href="https://www.youtube.com/watch?v=QmE3rijiepA">
+</li>
+<li>
+<a href="https://www.youtube.com/watch?v=QmE3rijiepA">
    Botón de Parada
   </a>
- </li>
- <li>
-  <a href="https://www.youtube.com/watch?v=yFSMr0tHh9g">
+</li>
+<li>
+<a href="https://www.youtube.com/watch?v=yFSMr0tHh9g">
    Botón de emergencia
   </a>
- </li>
- <li>
-  <a href="https://www.youtube.com/watch?v=FzdygzTX_6M">
+</li>
+<li>
+<a href="https://www.youtube.com/watch?v=FzdygzTX_6M">
    Programa PLC Seguridad
   </a>
- </li>
- <li>
-  <a href="https://www.youtube.com/watch?v=__FU76SgdTg">
+</li>
+<li>
+<a href="https://www.youtube.com/watch?v=__FU76SgdTg">
    Programa PLC1
   </a>
- </li>
- <li>
-  <a href="https://www.youtube.com/watch?v=3_upADYZ8l0">
+</li>
+<li>
+<a href="https://www.youtube.com/watch?v=3_upADYZ8l0">
    Programa PLC2
   </a>
- </li>
+</li>
 </ul>
 <h1>
  Reflexiones
 </h1>
-<h2>
+<h2 id="Individuales">
  Individuales
 </h2>
 <p>
- <a href="https://github.com/dfcantors/Proyecto_APM/blob/main/2.%20Seccion%20de%20Reflexiones/2.1.%20Individales/Reflexi%C3%B3n%20Individual%20-%20Luis%20David%20Preciado.pdf">
+<a href="https://github.com/dfcantors/Proyecto_APM/blob/main/2.%20Seccion%20de%20Reflexiones/2.1.%20Individales/Reflexi%C3%B3n%20Individual%20-%20Luis%20David%20Preciado.pdf">
   Luis David Preciado Martinez
  </a>
 </p>
-<h2>
+<h2 id="Grupal">
  Grupal
 </h2>
-
-        </div>
-    </main>
+</div>
+</main>
 </body>
 </html>
