@@ -149,16 +149,16 @@ Para la etapa de calidad, la impresión de patrones y empaque de las cajas con l
 
 | Máquina                                 | Detalles                                       |
 |-----------------------------------------|------------------------------------------------|
-| Qualitron Flawmarter120                | (System Ceramics)                              |
+| **Qualitron Flawmarter120**                | (System Ceramics)                              |
 | Medidas                                | 12000x1800 mm                                  |
-| Impresora de patrones Infinity 2.1     | (System Ceramics)                              |
+| **Impresora de patrones Infinity 2.1**     | (System Ceramics)                              |
 | Longitud                                | 6,4mm                                          |
 | Resolución                              | hasta 600 PPP                                  |
 | Ancho de impresión                      | hasta 2100 mm                                  |
 |                                         |                                                |
 |                                         |                                                |
-| Empacadora Multipack                    | (System Ceramics)                             |
-| Para formatos de baldosas               | de hasta 180x120 cm                           |
+| **Empacadora Multipack**                    | (System Ceramics)                             |
+| Formatos de baldosas               | de hasta 180x120 cm                           |
 #### Embalaje de cajas
 
 El proceso de embalaje de cajas se dividirá en 2 fases distintas. Esto contemplara el proceso desde el armado de la caja y la disposición de las baldosas hasta su cobertura de vinipel:
