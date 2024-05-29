@@ -116,16 +116,16 @@ El beneficio de Chía Dynamics en un proyecto de este estilo es del 23,22% del c
 ## Primera propuesta en NX con Layout provisional
 Inicialmente se tiene un layout funcional en simulación con el fin de probar cada parte del plan de automatización desarrollado en cada máquina, es por esta razón que se tiene un ejemplar de cada sistema, una vez definida la producción individual por máquina se hará el ajuste numérico.
 La planta cuenta con las siguientes máquinas:
--Silo con la mezcla ya preparada
--Prensa
--Volteadora de baldosas
--Secadora
--Barnizadora
--Horno
--Máquina de pintado
--Qualitron
--Clasificador
--Apiladora de baldosas / empaquetadora
+-Silo con la mezcla ya preparada  
+-Prensa  
+-Volteadora de baldosas  
+-Secadora  
+-Esmaltadora  
+-Horno  
+-Máquina de pintado  
+-Qualitron  
+-Clasificador  
+-Apiladora de baldosas / empaquetadora  
 
 Siendo estos los procesos automatizables dentro de la fábrica.
 
