@@ -193,7 +193,7 @@ La información correspondiente se encuentra dentro de la carpeta:
 ## Individuales
 [Luis David Preciado Martinez](https://github.com/dfcantors/Proyecto_APM/blob/main/2.%20Seccion%20de%20Reflexiones/2.1.%20Individales/Reflexi%C3%B3n%20Individual%20-%20Luis%20David%20Preciado.pdf)
 
-##Grupal
+## Grupal
 
 
 
