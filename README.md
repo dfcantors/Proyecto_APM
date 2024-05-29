@@ -109,9 +109,11 @@ Se presenta la tabla con los datos y cálculos realizados para la evalución de 
 
 El proyecto no generará ganancias durante los primeros cuatro meses de operación. Durante este tiempo se llevarán a cabo modificaciones, se contratarán y pagarán los salarios de los ingenieros encargados y se iniciará la infraestructura requerida. Se espera que la planta esté paralizada durante los meses 3 y 4, lo que aumentará las pérdidas de producción.
 
-El proyecto tiene un costo de inversión estimado de $1.137.039.852 COP, que incluye gastos de interrupción de producción, maquinaria, robots, servicios y software, entre otros.
+El proyecto tiene un costo de inversión estimado de $1.309.477.253 COP, que incluye gastos de interrupción de producción, maquinaria, robots, servicios y software, entre otros.
 
-Sin embargo, los indicadores financieros indican que el proyecto es viable a pesar de estos obstáculos iniciales, con un Valor Actual Neto (VAN) de $390.077.121 respecto a la inversión total y una Tasa Interna de Retorno (TIR) del 11%. Además, se estima que el período de recuperación de la inversión (payback) durará 19 meses, generando más de $1.160.000.000 en ingresos.
+Sin embargo, los indicadores financieros indican que el proyecto es viable a pesar de estos obstáculos iniciales, con un Valor Actual Neto (VAN) de $228.810.238 respecto a la inversión total y una Tasa Interna de Retorno (TIR) del 10%. Además, se estima que el período de recuperación de la inversión (payback) durará 18 meses.
+
+El beneficio de Chía Dynamics en un proyecto de este estilo es del 23,22% del costo del total del proyecto, lo equivalente a 246.802.466 COP.
 
 ## Primera propuesta en NX con Layout provisional
 Inicialmente se tiene un layout funcional en simulación con el fin de probar cada parte del plan de automatización desarrollado en cada máquina, es por esta razón que se tiene un ejemplar de cada sistema, una vez definida la producción individual por máquina se hará el ajuste numérico.
