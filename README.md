@@ -163,8 +163,9 @@ La información correspondiente se encuentra dentro de la carpeta:
         
 ## 1.7 Contenido de módulo de controladores industriales completado.
 [Sensores y Equipos de Seguridad](https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.7.%20Controladores%20Industriales/Sensores%20%20Industriales%20y%20Elementos%20de%20Seguridad.md)\
-[GRAFCET](https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.7.%20Controladores%20Industriales/GRAFCET.pdf)
-[Lógica y Memorias](https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.7.%20Controladores%20Industriales/Logica%20y%20Memorias.pdf)
+[GRAFCET](https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.7.%20Controladores%20Industriales/GRAFCET.pdf)\
+[Lógica y Memorias](https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.7.%20Controladores%20Industriales/Logica%20y%20Memorias.pdf)\
+[Archivos de Studio 5000](https://github.com/dfcantors/Proyecto_APM/tree/main/1.%20Seccion%20de%20Producto/1.7.%20Controladores%20Industriales/Archivos%20Studio%205000)
 
 ### Diseño de HMIs
 ![image](https://github.com/dfcantors/Proyecto_APM/assets/82415576/575150fe-4af1-4cba-9b20-6cdc27182f8c)
