@@ -175,6 +175,10 @@ El proceso de embalaje de cajas se dividirá en 2 fases distintas. Esto contempl
 La celda robotizada se diseñó de la siguiente manera:
 [![Ver en YouTube](https://img.youtube.com/vi/A6Pkuksjzn0/maxresdefault.jpg)](https://www.youtube.com/watch?v=A6Pkuksjzn0)
 
+Dicha celda sigue la siguiente lógica para su funcionamiento:
+
+<img src="https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Imagenes/Encoder_EV3.jpg" alt="Diagrama_celda" width="600">
+
  
 
 ### Robots propuestos para cada parte del proceso
