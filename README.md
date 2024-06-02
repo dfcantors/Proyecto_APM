@@ -177,7 +177,7 @@ La celda robotizada se diseñó de la siguiente manera:
 
 Dicha celda sigue la siguiente lógica para su funcionamiento:
 
-<img src="https://github.com/FRM-2024-1S-Grupo-2/Laboratorio-Sensores/blob/main/Imagenes/Encoder_EV3.jpg" alt="Diagrama_celda" width="600">
+<img src="https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.5.%20Celda%20Robotizada/Análisis%20de%20Riesgo/Diagrama_celda_robotizada_APM.png" alt="Diagrama_celda" width="600">
 
  
 
