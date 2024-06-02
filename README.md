@@ -177,8 +177,9 @@ La celda robotizada se diseñó de la siguiente manera:
 
 Dicha celda sigue la siguiente lógica para su funcionamiento:
 
-<img src="https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.5.%20Celda%20Robotizada/Análisis%20de%20Riesgo/Diagrama_celda_robotizada_APM.png" alt="Diagrama_celda" width="400">
-
+<div style="text-align: center;">
+  <img src="https://github.com/dfcantors/Proyecto_APM/blob/main/1.%20Seccion%20de%20Producto/1.5.%20Celda%20Robotizada/Análisis%20de%20Riesgo/Diagrama_celda_robotizada_APM.png" alt="Diagrama_celda" width="400">
+</div>
  
 
 ### Robots propuestos para cada parte del proceso
