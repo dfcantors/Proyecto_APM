@@ -190,6 +190,10 @@
 
   });
 
+
+
+
+
   /**
    * Initiate portfolio lightbox 
    */
@@ -261,3 +265,23 @@
   new PureCounter();
 
 })()
+
+function pasos(option) {
+  event.preventDefault();  // Prevenir el comportamiento por defecto del enlace
+
+  const images = {
+      'EDT': 'https://github.com/dfcantors/Proyecto_APM/assets/82415576/fae0568f-3207-43e5-95a1-0bb6bb61e4cb',
+      'Adquisiciones': 'https://github.com/dfcantors/Proyecto_APM/assets/82415576/4d1bf957-31d1-4d04-a3e4-e632fc9817ac',
+      'Costo y Tiempos': 'https://github.com/dfcantors/Proyecto_APM/assets/82415576/faabf7e8-9550-4612-a282-fa2c23c06098',
+      'Riesgos': 'https://github.com/dfcantors/Proyecto_APM/assets/82415576/742736bd-3dc1-471a-b2ba-27741c3ef9c3',
+      'Stakeholders': 'https://github.com/dfcantors/Proyecto_APM/assets/82415576/b917c409-9bb9-4b9b-a19a-fa85ac14ea3b',
+      'Matriz de comunicaciones': 'https://github.com/dfcantors/Proyecto_APM/assets/82415576/3f99db54-fbb3-424d-a4e8-377516b981f4',
+      'RACI': 'https://github.com/dfcantors/Proyecto_APM/assets/82415576/13c69598-0434-48d8-9823-c905c539a79c',
+      'Diagrama de Gantt': 'https://github.com/dfcantors/Proyecto_APM/assets/83465309/cb6a5cf2-17f6-42c4-88c4-09c501aea7a7'
+  };
+
+  const imageUrl = images[option];
+  if (imageUrl) {
+      document.getElementById('main-image').src = imageUrl;
+  }
+}
